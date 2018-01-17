@@ -17,9 +17,9 @@ namespace EFConsoleApplication
 
                 //UpdateStudentRecordById(1);
 
-                ReadStudentRecordById(2);
+                //ReadStudentRecordById(2);
                 //DeleteStudentRecordById(2);
-                //ReadRecords();  // student
+                ReadRecords();  // student
 
             }
             catch(Exception ex)
