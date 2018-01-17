@@ -1,0 +1,11 @@
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\obj\Debug\EFConsoleApplication.csproj.CoreCompileInputs.cache
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EFConsoleApplication.exe.config
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EFConsoleApplication.exe
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EFConsoleApplication.pdb
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EntityFramework.dll
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EntityFramework.xml
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\obj\Debug\EFConsoleApplication.exe
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\obj\Debug\EFConsoleApplication.pdb
+C:\dev\MVC_EF_LINQ\EFConsoleApplication\EFConsoleApplication\obj\Debug\EFConsoleApplication.csprojResolveAssemblyReference.cache
